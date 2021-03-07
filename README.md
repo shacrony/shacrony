@@ -21,8 +21,3 @@
 ![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/rony.novais_/)
 ![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/namoradoDaGab/)
 
-Sim, eu sou um criminoso...meu crime é a curiosidade.
-
-Eu sou um hacker, e este é meu manifesto. Você pode parar este indivíduo, mas você não pode parar todos nós … afinal, somos todos iguais.
- 
- 
