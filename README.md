@@ -23,6 +23,6 @@
 
 # Sim, eu sou um criminoso...meu crime é a curiosidade.
 
-# Eu sou um hacker, e este é meu manifesto. Você pode parar este indivíduo, mas você não pode parar todos nós … afinal, somos todos iguais.
+Eu sou um hacker, e este é meu manifesto. Você pode parar este indivíduo, mas você não pode parar todos nós … afinal, somos todos iguais.
  
  
