@@ -2,7 +2,7 @@
 
 
 
-- :bomb: I’m currently Unemployed <p>
+- :bomb: I’m currently lecturer  <p>
 - :mortar_board: I’m studying python <p>
 - :man_technologist: tryning to be A Ethical Hacker 
 
