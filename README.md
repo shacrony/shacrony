@@ -8,16 +8,10 @@
 
 Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusão**, **Análise de Vulnerabilidades** e **Respostas a Incidentes**. Apaixonado por hacking ético e segurança cibernética, busco constantemente aprimorar minhas habilidades e compartilhar conhecimento com a comunidade.  
 
----
-
 ## 🏆 Certificações  
 
 - 🛡 **Desec Certified Penetration Tester (DCPT)**  
 - 🔍 **Solyd Certified Pentester (SYCP)**   
-
----
-
-## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shacrony&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
@@ -42,13 +36,9 @@ Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusã
 - Geração de **relatórios técnicos detalhados** e recomendações para mitigação de riscos.  
 - Avaliação de conformidade com **PCI-DSS, NIST e OWASP**.  
 
----
-
 ## 🎓 Formação Acadêmica  
 
 📌 **Estácio** - Graduação em **Tecnologia da Informação** *(Set/2021 - Jul/2024)*  
-
----
 
 ## 🛠 Habilidades Técnicas  
 
@@ -71,8 +61,6 @@ Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusã
   <img src="https://github.com/shacrony/assets/blob/main/burp.png"width="40" height="40"/>
   <img src="https://github.com/shacrony/assets/blob/main/hydra.png"width="40" height="40"/> 
 </p>
-
----
 
 ## 🌎 Idiomas  
 - 🇧🇷 **Português** - Nativo  
