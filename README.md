@@ -1,26 +1,30 @@
-# 💻 Rony Novais  
-**Pentester | Analista de Segurança da Informação**  
-📍 Guarujá, São Paulo, Brasil  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronynovais)  
+#  Rony Novais
+  
+**Pentester | Analista de Segurança da Informação**
+  
+📍São Paulo, Brasil  
  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronynovais) 
 
----
 
-## 🔥 Sobre mim  
 Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusão**, **Análise de Vulnerabilidades** e **Respostas a Incidentes**. Apaixonado por hacking ético e segurança cibernética, busco constantemente aprimorar minhas habilidades e compartilhar conhecimento com a comunidade.  
-
----
 
 ## 🏆 Certificações  
 
 - 🛡 **Desec Certified Penetration Tester (DCPT)**  
-- 🌐 **Certified Network Security Practitioner (CNSP)**  
-- 🔍 **Solyd Certified Pentester (SYCP)**  
-- ☁ **Certified Cloud Security Practitioner - AWS (CCSP-AWS)**  
-- 🔐 **Certified AppSec Practitioner (CAP)**  
+- 🔍 **Solyd Certified Pentester (SYCP)**   
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shacrony&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shacrony&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shacrony&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+</p>
 
 ## 💼 Experiência Profissional  
 
@@ -31,6 +35,8 @@ Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusã
 - Geração de **relatórios técnicos detalhados** e recomendações para mitigação de riscos.  
 - Avaliação de conformidade com **PCI-DSS, NIST e OWASP**.  
 
+---
+
 ## 🎓 Formação Acadêmica  
 
 📌 **Estácio** - Graduação em **Tecnologia da Informação** *(Set/2021 - Jul/2024)*  
@@ -39,11 +45,24 @@ Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusã
 
 ## 🛠 Habilidades Técnicas  
 
-- **🛡 Segurança:** Pentest Web/Mobile/API, Análise de Vulnerabilidades, Engenharia Reversa  
-- **🖥 Infraestrutura:** Linux, Windows Server, Active Directory  
-- **📡 Ferramentas:** Burp Suite, Nessus, Nikto, Metasploit, Maltego  
-- **📌 Metodologias:** OWASP Top 10, PTES, NIST SP800-115, MITRE ATT&CK  
-- **💻 Programação:** Python, Bash, SQL  
+### **Programming & Scripting**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+</p>
+
+### **Operating Systems**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
+</p>
+
+### **Tools & Frameworks**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
@@ -51,4 +70,3 @@ Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusã
 - 🇧🇷 **Português** - Nativo  
 - 🇺🇸 **Inglês** - Intermediário (Leitura técnica e comunicação básica)  
 
----
