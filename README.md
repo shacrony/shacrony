@@ -68,6 +68,8 @@ Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusã
 <p align="left">
   <img src="https://www.kali.org/images/kali-logo.svg" width="40" height="40" alt="Kali Linux"/>
   <img src="https://github.com/shacrony/assets/blob/main/metasploite.png"width="40" height="40"/>
+  <img src="https://github.com/shacrony/assets/blob/main/burp.png"width="40" height="40"/>
+  <img src="https://github.com/shacrony/assets/blob/main/hydra.png"width="40" height="40"/> 
 </p>
 
 ---
