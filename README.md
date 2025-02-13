@@ -1,18 +1,23 @@
-#  Rony Novais
-  
-**Pentester | Analista de Segurança da Informação**
-  
-📍São Paulo, Brasil  
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronynovais) 
+#  Rony Novais  
 
+**Pentester | Analista de Segurança da Informação**  
+
+📍São Paulo, Brasil  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronynovais)  
 
 Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusão**, **Análise de Vulnerabilidades** e **Respostas a Incidentes**. Apaixonado por hacking ético e segurança cibernética, busco constantemente aprimorar minhas habilidades e compartilhar conhecimento com a comunidade.  
+
+---
 
 ## 🏆 Certificações  
 
 - 🛡 **Desec Certified Penetration Tester (DCPT)**  
 - 🔍 **Solyd Certified Pentester (SYCP)**   
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shacrony&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
@@ -25,6 +30,8 @@ Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusã
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shacrony&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
 </p>
+
+---
 
 ## 💼 Experiência Profissional  
 
@@ -59,9 +66,8 @@ Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusã
 
 ### **Tools & Frameworks**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" width="40" height="40"/>
+  <img src="https://www.kali.org/images/kali-logo.svg" width="40" height="40" alt="Kali Linux"/>
+  <img src="https://github.com/shacrony/assets/blob/main/metasploite.png"width="40" height="40"/>
 </p>
 
 ---
@@ -69,4 +75,3 @@ Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusã
 ## 🌎 Idiomas  
 - 🇧🇷 **Português** - Nativo  
 - 🇺🇸 **Inglês** - Intermediário (Leitura técnica e comunicação básica)  
-
