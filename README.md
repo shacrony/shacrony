@@ -1,22 +1,61 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello I'm Rony Novais :eyes:
+# 💻 Rony Novais  
+**Pentester | Analista de Segurança da Informação**  
+📍 Guarujá, São Paulo, Brasil  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronynovais)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shacrony@gmail.com)  
 
+---
 
-- :mortar_board: I’m studying python <p>
-- :man_technologist: trying to be A Ethical Hacker 
+## 🔥 Sobre mim  
+Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusão**, **Análise de Vulnerabilidades** e **Respostas a Incidentes**. Apaixonado por hacking ético e segurança cibernética, busco constantemente aprimorar minhas habilidades e compartilhar conhecimento com a comunidade.  
 
- # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Skills :trophy:
- 
-![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<p>
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
- 
-  # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Social Medias :camera:
+🎯 **Objetivo**: Fortalecer a segurança de sistemas e aplicações, mitigando ameaças e garantindo conformidade com normas e boas práticas do setor.  
 
-![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/Shacrony/)
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/rony.novais_/)
-![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/namoradoDaGab/)
+---
 
+## 🏆 Certificações  
+
+- 🛡 **Desec Certified Penetration Tester (DCPT)**  
+- 🌐 **Certified Network Security Practitioner (CNSP)**  
+- 🔍 **Solyd Certified Pentester (SYCP)**  
+- ☁ **Certified Cloud Security Practitioner - AWS (CCSP-AWS)**  
+- 🔐 **Certified AppSec Practitioner (CAP)**  
+
+---
+
+## 💼 Experiência Profissional  
+
+### 🔹 **Access Security**  
+📌 *Analista de Segurança da Informação* (Mar/2023 - Jun/2024)  
+- Condução de **Pentests** em aplicações Web, Mobile, APIs e Infraestrutura.  
+- Identificação e exploração de **vulnerabilidades críticas** seguindo metodologias reconhecidas.  
+- Geração de **relatórios técnicos detalhados** e recomendações para mitigação de riscos.  
+- Avaliação de conformidade com **PCI-DSS, NIST e OWASP**.  
+
+## 🎓 Formação Acadêmica  
+
+📌 **Estácio** - Graduação em **Tecnologia da Informação** *(Set/2021 - Jul/2024)*  
+
+---
+
+## 🛠 Habilidades Técnicas  
+
+- **🛡 Segurança:** Pentest Web/Mobile/API, Análise de Vulnerabilidades, Engenharia Reversa  
+- **🖥 Infraestrutura:** Linux, Windows Server, Active Directory  
+- **📡 Ferramentas:** Burp Suite, Nessus, Nikto, Metasploit, Maltego  
+- **📌 Metodologias:** OWASP Top 10, PTES, NIST SP800-115, MITRE ATT&CK  
+- **💻 Programação:** Python, Bash, SQL  
+
+---
+
+## 🌎 Idiomas  
+- 🇧🇷 **Português** - Nativo  
+- 🇺🇸 **Inglês** - Intermediário (Leitura técnica e comunicação básica)  
+
+---
+
+## 📌 Conecte-se Comigo  
+📩 Me envie um e-mail para **shacrony@gmail.com** ou me adicione no [**LinkedIn**](https://www.linkedin.com/in/ronynovais).  
+
+🚀 **Sempre aberto a novas oportunidades e colaborações!**
