@@ -10,8 +10,11 @@ Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusã
 
 ## 🏆 Certificações  
 
-- 🛡 **Desec Certified Penetration Tester (DCPT)**  
-- 🔍 **Solyd Certified Pentester (SYCP)**   
+- **Desec Certified Penetration Tester (DCPT)**  
+- **Solyd Certified Pentester (SYCP)**
+- **Multi-Cloud Red Teaming Analyst (MCRTA)**
+- **Certified RED Team Analyst(CRTA)**
+   
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shacrony&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
