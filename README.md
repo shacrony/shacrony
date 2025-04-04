@@ -13,7 +13,7 @@ Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusã
 - **Desec Certified Penetration Tester (DCPT)**  
 - **Solyd Certified Pentester (SYCP)**
 - **Multi-Cloud Red Teaming Analyst (MCRTA)**
-- **Certified RED Team Analyst(CRTA)**
+- **Certified RED Team Analyst (CRTA)**
    
 
 <p align="center">
