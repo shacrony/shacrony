@@ -6,7 +6,16 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronynovais)  
 
-Profissional de **Segurança Ofensiva** com experiência em **Testes de Intrusão**, **Análise de Vulnerabilidades** e **Respostas a Incidentes**. Apaixonado por hacking ético e segurança cibernética, busco constantemente aprimorar minhas habilidades e compartilhar conhecimento com a comunidade.  
+Analista de Segurança da Informação, com experiência na condução de testes de intrusão para diferentes ambientes e setores. Ao longo da minha trajetória, obtive resultados significativos, como:
+
+mais de 20 testes de penetração para conformidade e segurança ofensiva, identificando centenas de vulnerabilidades, incluindo falhas críticas e configurações inseguras.
+Forneci suporte direto aos stakeholders, apresentando relatórios detalhados e recomendações acionáveis para mitigação de riscos.
+Realizei testes de segurança em aplicações web, mobile, APIs e infraestrutura, utilizando metodologias como NIST, OWASP Top 10 e PTES.
+
+Experiência com ferramentas como BURP, NESSUS, ZAP, WIRESHARK e METASPLOIT, garantindo análises precisas e eficazes.
+Aprimorei processos internos de segurança, aplicando frameworks como MITRE ATT&CK, NIST e OWASP SAMM, melhorando a qualidade das auditorias e aumentando a eficiência operacional.
+
+Com certificações como DCPT, CNSP, SYCP, CAP e CCSP-AWS, continuo evoluindo para entregar soluções de segurança robustas e contribuir com a proteção de ambientes corporativos contra ameaças emergentes. 
 
 ## 🏆 Certificações  
 
